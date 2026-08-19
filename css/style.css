@@ -102,6 +102,7 @@ section {
     border: 6px solid #c9e4de;
     border-radius: 50%;
     object-fit: cover;
+    object-position: center top;
 }
 
 .about ul {
